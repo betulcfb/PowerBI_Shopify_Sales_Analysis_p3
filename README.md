@@ -3,6 +3,10 @@
 This project showcases a Power BI dashboard developed to analyze Shopify sales data. The report provides actionable business insights into sales performance, customer behavior, and retention patterns.
 
 ---
+![image](https://github.com/user-attachments/assets/8b563489-f000-4fcb-a3cf-34c1b620e05d)
+![image](https://github.com/user-attachments/assets/35efa14f-adf8-4fa1-a935-acca89d728ec)
+![image](https://github.com/user-attachments/assets/dbea4d58-5d4b-4d5a-b0b1-f814ca2d5dc6)
+
 
 ## Objective
 
